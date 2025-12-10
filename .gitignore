@@ -1,0 +1,10 @@
+laba_1
+tests
+*.exe
+*.out
+*.o
+*.obj
+*.d
+output.txt 
+.vscode/
+
